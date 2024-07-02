@@ -304,7 +304,6 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(105, 57, 57) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
